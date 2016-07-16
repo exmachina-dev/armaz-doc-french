@@ -4,21 +4,23 @@ Informations générales
 Note produit
 ------------
 
-Only qualified personnel should attempt the set-up procedure or troubleshoot this equipment.
-This equipment may be connected to other machines that have rotating parts or parts that are controlled by this equipment.
-Improper use can cause serious or fatal injury.
+Seul un technicien qualifié `devrait` procéder à la procédure d'installation ou au 
+diagnostic de l'équipement.
+Cet équipement peut être connecté à d'autres machines contenant des éléments en mouvement ou
+des accessoires contrôlés par cet équipement.
+Une utilisation incorrecte peut causer des dommages graves ou fatals.
 
-
-Note sécurité
+Note de sécurité
 -------------
 
-Intended use: These motors are intended for indoor use in entertainment places
 
-.. todo:: Define places
+Le moteur Armaz est conçu pour un usage intérieur dans un environment scénique.
 
-The motor must be protected from exposure to excessive or corrosive moisture, dust, dirt or abnormal ambient temperatures.
-The exact operating specifications are found in :doc:`07-specifications` section of this manual.
-The installation, connection, configuration and control of motors is a skilled operation and must be done by a qualified technician.
+Le moteur `doit` être protégé de l'exposition à des vapeurs corrosives, à l'humidité excessive,
+à la poussière, à la boue et à des températures ambiantes excessives.
+Les caractéristiques exactes se trouvent dans la section :doc:`07-specifications` de ce manuel.
+L'installation, le branchement, la configuration et la commande de moteurs est une opération critique
+et `doit` être réalisée par un technicien qualifié.
 
 Précautions
 -----------

@@ -1,40 +1,45 @@
 Introduction
 ============
 
-Features
---------
+Fonctionnalités
+---------------
 
-The Armaz motor is a versatile brushless servo motor, providing a flexible and powerful motion control solution.
-Standard features include:
+Le moteur Armaz est un servo moteur brushless versatile. Il fournit une solution de motorisation flexible et puissante.
+Les fonctionnalités standard sont:
 
-* Range of models with wide velocity and torque ratings:
-* Direct connection to 115 V AC or 230 V AC single-phase.
-* Torque, enhanced torque, velocity and position control.
-* 1 emergency stop input.
-* 3 configurable digital inputs. Each of those inputs can be configured to trigger a different action.
-* 1 remote control port. Support remote control using remote from Eisla product range.
-* Integrated 2 port ethernet switch.
-* OSC protocol for communication with remote control or other Armaz devices.
-* Profile system
+* Gamme de variant avec une large possibilité de couple et vitesse:
+  Jusqu'à 300 Nm et 200 rpm.
+* Alimentation 115 V AC ou 230 V AC en mono-phasé.
+* Multiples modes de contrôle: couple, couple amélioré, vitesse et position.
+* 1 entrée pour arrêt d'urgence.
+* 3 entrée digitales configurables. Chacune de ces entrées peut être configurée pour
+  déclencher une action distincte.
+* 1 port télécommande. Fournit la commande a distance en utilisant une télécommande de la gamme Eisla.
+* Switch Ethernet 2 ports intégré.
+* Protocole OSC pour la communication avec une télécommande ou d'autres moteurs Armaz..
+* Système de gestion de profile.
   
-This manual is intended to guide you through the installation of Armaz motor. The sections should be read in sequence.
+Ce manuel est destiné à vous guider à travers l'installation du moteur Armaz.
+Les différentes sections doivent être lues dans l'ordre.
 
-The basic installation describe the mechanical installation of the Armaz, the power supply and digital inputs.
-The other sections require basic knowledge of logic programmation and an understanding of computer software installation.
-If you are not qualified in these areas you should seek assistance before proceeding.
+:ref:`L'installation basique <03-basic-installation>` décrit l'installation mécanique de Armaz,
+son alimentation et ses entrées digitales.
+Les autres section font appel à des notions de programmation logique et à des compétences
+informatiques. Si vous n'êtes pas qualifié, vous devriez chercher une assistance avant de continuer.
 
-Serial number
+Numéro de série
 --------------
 
-The Armaz is available in different version (also called variants). The serial number is marked on the rear of the unit. 
+Armaz est disponible dans différentes versions (appelées variantes).
+Le numéro de série est noté sur la face arrière de l'appareil.
 
-A description of a catalog number is shown here using the exmable of *0116ARFB0013*:
+Une explication du numéro de série est donnée ici en utilisant l'exemple *0116ARFB0013*:
 
 ======= =============================================== =====================
-Field   Meaning                                         Altenatives
+Champ   Définition                                      Alternatives
 ======= =============================================== =====================
-0116    Week number and year of manufacturing (WWYY)    \-
-ARFB    Armaz variant                                   ARMH, ARMF, ARFB, ARFL
-0013    Number of unit manufactured during the week     \-
+0116    Semaine et année de fabrication (WWYY)          \-
+ARFB    Variant d'Armaz                                 ARMH, ARMF, ARFB, ARFL
+0013    Numéro d'unité fabriquée pendant la semaine     \-
 ======= =============================================== =====================
 

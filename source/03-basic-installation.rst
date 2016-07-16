@@ -28,7 +28,7 @@ Les composants requis pour réaliser l'installation basique sont:
   * Un ordinateur avec une interface compatible OSC.
 
 * Un câble de données pour relier le moteur à la télécommande, selon le type de télécommande
-  (câble XLR 5 points ou câble Ethernet cat5).
+  (câble XLR 5 points ou câble Ethernet Cat5).
 
 Outils et accessoires divers
 ----------------------------
@@ -36,48 +36,49 @@ Outils et accessoires divers
 * Vis ou boulons M8 et/ou M10 pour monter le moteur.
 * Outils adéquats pour les vis ou boulons.
 
-Mechanical installation and cooling requirements
-------------------------------------------------
+Installation mécanique et refroidissement
+-----------------------------------------
 
-.. warning:: It is essential that you read and understand this section before
-    beginning the installation.
+.. warning:: Il est essentiel de lire et comprendre cette section avant de commencer l'installation.
 
-.. note:: Avoid locating the Armaz motor immediatly above or beside heat
-    generating equipment.
+.. note:: Évitez de placer le moteur directement au-dessus ou à côté d'un apareil
+    générant de la chaleur.
 
-.. note:: Avoid locating the Armaz motor in the vicinity of corrosive
-    substances or vapors, metal particles and dust.
+.. note:: Évitez d'exposer le moteur Armaz à des substances ou vapeurs corrosives, à
+    des particules métalliques ou  à la poussière.
 
-.. note:: Falure to meet cooling air flow requirements will reslut in reduced
-    product lifetime and/or motor over temperature trips.
+.. note:: Le non-respect des conditions de refroidissement entraîne la réduction de la durée de vie du produit et/ou des surchauffes du moteur.
 
-The safe operation of this equipment depends upon its use in the environment.
-The following points must be considered:
+L'utilisation en toute sécurité de cet équipement dépend de son utilisation dans son milieu.
+Les points suivants doivent être considérés:
 
-* The Armaz motor `must` be installed indoors, firmly fixed and located so that
-  it can only be accessed by qualified technicians using tools.
+* Le moteur Armaz `doit` être installé en intérieur, solidement fixé et placé dans un endroit
+  accessible seulement par des techniciens qualifiés au moyen d'outils.
 * The maximum suggested operating altitude is 1000m (330 ft).
-* Great care should be taken when mounting the Armaz motor. 
-  Armaz motor provides a high torque (up to 300 Nm) and/or a high speed
-  (up to 200 rpm) depending variant.
-  Mounting plates and support `must` be designed accordingly to provides strength and dampness.
-* Depending on the mounting location, care should be taken to design a safe and reliable mounting system.
-  Locations such as above people should be avoided. In most cases, a safety cable fixed to the motor is strongly advised.
+* Une attention particulière doit être apportée lors de l'installation du moteur Armaz. 
+  Le moteur Armaz peut délivrer un couple important (jusqu'à 300 Nm) et/ou des vitesses importantes
+  (jusqu'à 200 rpm) en fonction des variantes.
+  Les support et plaques de fixation `doivent` être conçues pour fournir une
+  resistance et un amortissement adéquats.
+* En fonction de l'emplacement de fixation, une attention particulière `doit` être apportée à la
+  conception du système de fixation.
+  Les emplacements de fixation comme au-dessus de personnes `doivent` être évitées.
+  Dans la plupart des cas, une élingue de sécurité attachée au moteur est fortement conseillée.
 
-Mechanical installation
-^^^^^^^^^^^^^^^^^^^^^^^
+Installation mécanique
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. todo:: Mechanical installation section and drawings
 
-Cooling requirements
-^^^^^^^^^^^^^^^^^^^^
+Refroidissement
+^^^^^^^^^^^^^^^
 
-For effective colling, the Armaz motor must be mounted with the aeration grids
-facing up and down. A space of 100 mm below and above the motor should be kept clear.
-This ensure that a sufficient airflow can circulate.
+Pour un refroidissement effectif, le moteur Armaz `doit` être installé avec les grilles d'aération
+en haut et en bas. Un epsace de 100 mm en-dessous et au-dessus du moteur `doit` être conservé.
+Ceci afin de s'assurer qu'un flux d'air suffisant puisse circuler.
 
-The Armaz motor is designed to opertade in an ambient temperature of 0 °C to 40 °C.
-Detail characteristics can be found in the :doc:`07-specifications` section.
+Le moteur Armaz est conçu pour fonctionner à une température ambiante comprise entre 0 °C to 40 °C.
+Les caractéristiques détaillée du moteur Armaz se situent dans la section :doc:`07-specifications`.
 
-.. warning:: The metal housing of the motor can become hot (45 °C) during normal operation.
+.. warning:: Le carter en acier peut devenir chaud (45 °C) pendant une utilisation normale.
 

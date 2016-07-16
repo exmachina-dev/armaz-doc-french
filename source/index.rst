@@ -12,10 +12,10 @@ Contenu:
    :maxdepth: 3
    :numbered:
 
-   01-general-information
-   02-introduction
-   03-basic-installation
-   07-specifications
+   general-information
+   introduction
+   basic-installation
+   specifications
 
 * :ref:`search`
 

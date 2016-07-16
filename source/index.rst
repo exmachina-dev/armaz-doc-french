@@ -16,6 +16,7 @@ Contenu:
    introduction
    basic-installation
    specifications
+   glossary
 
 * :ref:`search`
 

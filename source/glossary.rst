@@ -1,0 +1,6 @@
+Glossaire
+=========
+
+.. glossary::
+
+    

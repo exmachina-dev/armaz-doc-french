@@ -4,7 +4,7 @@ Installation basique
 Introduction
 ------------
 
-.. warning:: Vous devriez lire toutes les sections dans :doc:`03-basic-installation` pour réaliser une installation conforme.
+.. warning:: Vous devriez lire toutes les sections dans :doc:`basic-installation` pour réaliser une installation conforme.
 
 Cette section décrit l'installation mécanique et électrique du moteur Armaz.
 
@@ -78,7 +78,7 @@ en haut et en bas. Un epsace de 100 mm en-dessous et au-dessus du moteur `doit` 
 Ceci afin de s'assurer qu'un flux d'air suffisant puisse circuler.
 
 Le moteur Armaz est conçu pour fonctionner à une température ambiante comprise entre 0 °C to 40 °C.
-Les caractéristiques détaillée du moteur Armaz se situent dans la section :doc:`07-specifications`.
+Les caractéristiques détaillée du moteur Armaz se situent dans la section :doc:`specifications`.
 
 .. warning:: Le carter en acier peut devenir chaud (45 °C) pendant une utilisation normale.
 

@@ -18,7 +18,7 @@ Le moteur Armaz est conçu pour un usage intérieur dans un environment scéniqu
 
 Le moteur `doit` être protégé de l'exposition à des vapeurs corrosives, à l'humidité excessive,
 à la poussière, à la boue et à des températures ambiantes excessives.
-Les caractéristiques exactes se trouvent dans la section :doc:`07-specifications` de ce manuel.
+Les caractéristiques exactes se trouvent dans la section :doc:`specifications` de ce manuel.
 L'installation, le branchement, la configuration et la commande de moteurs est une opération critique
 et `doit` être réalisée par un technicien qualifié.
 

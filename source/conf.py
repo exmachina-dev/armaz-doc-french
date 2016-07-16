@@ -50,6 +50,8 @@ master_doc = 'index'
 project = '''Manuel utilisateur d'Armaz'''
 copyright = '2016, Benoit Rapidel, ExMachina'
 
+language = 'fr'
+
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.

@@ -4,34 +4,35 @@ Basic installation
 Introduction
 ------------
 
-.. warning:: You should read all the sections in :doc:`03-basic-installation` to ensure safe installation.
+.. warning:: Vous devriez lire toutes les sections dans :doc:`03-basic-installation` pour réaliser une installation conforme.
 
-This section describes the mechanical and electrical installation of the Armaz motor.
+Cette section décrit l'installation mécanique et électrique du moteur Armaz.
 
-Power sources
--------------
-
-A 115 - 230 V AC (50 - 60 Hz) in the installation area is required. An AC filter is included in each motor for CE compliance.
-
-Hardware requirements
+Source d'alimentation
 ---------------------
 
-The components you will need to complete the basic installation are:
+Une alimentation 115 - 230 V AC (50 - 60 Hz) doit être présente à l'endroit de l'installation. Un filtre AC est inclus dans chaque motor pour satisfaire à la norme CE.
 
-* A PowerCon power cable
-* A STOPT emergency stop
-* A 3 point XLR cable
-* A remote controller. Possible choices are:
-  - A VARMO unit.
-  - A computer running :doc:`Ertza GUI <ertza:tools>` tool.
-  - A computer running any OSC capable interface.
-* A data cable to connect the remote to the motor, depending of the remote type 
-  (might be a 5 point XLR cable or a cat5 Ethernet cable).
+Matériel requis
+---------------
 
-Tools and miscellaneous hardware
+Les composants requis pour réaliser l'installation basique sont:
 
-* M10 and M8 screws or bolts for mounting the Armaz motor.
-* Corresponding spanner for the screws or bolts.
+* Un câble d'alimentation PowerCon.
+* Un arrêt d'urgence STOPT.
+* Un câble XLR 3 points
+* Une télécommande. Plusieurs alternatives sont disponibles:
+  - Une télécommande VARMO.
+  - Un ordinateur avec l'outil :doc:`Ertza GUI <ertza:tools>`.
+  - Un ordinateur avec une interface compatible OSC.
+* Un câble de données pour relier le moteur à la télécommande, selon le type de télécommande
+  (câble XLR 5 points ou câble Ethernet cat5).
+
+Outils et accessoires divers
+----------------------------
+
+* Vis ou boulons M8 et/ou M10 pour monter le moteur.
+* Outils adéquats pour les vis ou boulons.
 
 Mechanical installation and cooling requirements
 ------------------------------------------------

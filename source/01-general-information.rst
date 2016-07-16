@@ -1,15 +1,15 @@
-General information
-===================
+Informations générales
+======================
 
-Product notice
---------------
+Note produit
+------------
 
 Only qualified personnel should attempt the set-up procedure or troubleshoot this equipment.
 This equipment may be connected to other machines that have rotating parts or parts that are controlled by this equipment.
 Improper use can cause serious or fatal injury.
 
 
-Safety notice
+Note sécurité
 -------------
 
 Intended use: These motors are intended for indoor use in entertainment places
@@ -20,18 +20,19 @@ The motor must be protected from exposure to excessive or corrosive moisture, du
 The exact operating specifications are found in :doc:`07-specifications` section of this manual.
 The installation, connection, configuration and control of motors is a skilled operation and must be done by a qualified technician.
 
-Precautions
+Précautions
 -----------
-.. warning:: Do no touch any circuit board, power device or electrical connection before you first ensure that no
-    high voltage is present at this equipement or other equipement to which it is connected.
-    Electrical shock can cause serious or fatal injury.
-    Only qualified personnel should attempt to install, start-up, configure or troubleshoot this equipement.
+.. warning:: Ne touchez aucune carte électronique, appareil d'alimentation ou connection électrique
+    avant de vous être assuré qu'aucune tension n'est appliqué à l'appareil ou à un autre
+    équipement connecté à l'équipement.
+    Un choc électrique peut causer des dommages grâves ou fatals.
+    Seul un personnel qualifié devrait essayer d'installer, de démarrer, de configurer
+    ou de diagnostiquer cet équipemenet.
 
+.. warning:: Le motor peux contenir des tensions quand l'alimentation est branché, même si le noteur n'est pas en mouvement.
 
-.. warning:: The motor might have high voltages present whenever AC power is applied, even when the motor is not moving.
-
-.. warning:: Be sure the sytem is properly earthed/grounded before applying power.
-    Do not apply AC power before you ensure that earths/grounds are connected.
+.. warning:: Soyez sur que le système est proprement misa à la terre avant de l'alimenter.
+    Ne pas appliquer d'alimentation avant de vous être assurer que la mise à la terre est connectée.
 
 .. warning:: Be sure that you are completely familiar with the safe operation and configuration of this
     equipment. This equipment may be connected to other machines that have rotating parts

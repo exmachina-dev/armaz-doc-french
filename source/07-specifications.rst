@@ -1,5 +1,5 @@
-Specifications
-==============
+Caractéristiques
+================
 
-Hardware specifications
------------------------
+Caractéristiques matérielles
+----------------------------

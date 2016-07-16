@@ -11,7 +11,7 @@ des accessoires contrôlés par cet équipement.
 Une utilisation incorrecte peut causer des dommages graves ou fatals.
 
 Note de sécurité
--------------
+----------------
 
 
 Le moteur Armaz est conçu pour un usage intérieur dans un environment scénique.

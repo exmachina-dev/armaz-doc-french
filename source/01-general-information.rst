@@ -34,22 +34,23 @@ Précautions
 .. warning:: Soyez sur que le système est proprement misa à la terre avant de l'alimenter.
     Ne pas appliquer d'alimentation avant de vous être assurer que la mise à la terre est connectée.
 
-.. warning:: Be sure that you are completely familiar with the safe operation and configuration of this
-    equipment. This equipment may be connected to other machines that have rotating parts
-    or parts that are controlled by this equipment. Improper use can cause serious or fatal injury.
+.. warning:: Assurez-vous d'être entièrement [familiar with the safe operation and configuration] de
+    cet équipement. Cet équipement peut être connecté à d'autres machines qui des accesoires
+    en mouvement ou à des accesoires controlés par cet équipement. Une mauvaise utilisation
+    peut causer des dommages grâves ou fatals.
 
-.. warning:: Improper operation or configuration of the drive may cause violent motion of the motor
-    and driven equipment. Be certain that unexpected motor movement will not cause injury
-    to personnel or damage to equipment. Peak torque of several times the rated motor
-    torque can occur during control failure.
+.. warning:: Une mauvaise commande ou configuration du moteur peut entrainer un mouvement violent
+    du moteur ou de l'équipemnent connecté. Assurez-vous qu'un mouvement imprévu du moteur
+    ne puisse causer des dommages au personnel ou aux équipements. Un couple de pointe de
+    plusieurs fois le couple nominal du moteur peux être généré lors d'un défaut de commande.
 
-.. warning:: The metal housing of the motor can become very hot during normal operation.
+.. warning:: Le carter en acier peut devenir chaud pendant une utilisation normale.
 
-.. warning:: When operating the motor with no load coupled to its shaft, remove the shaft key to
-    prevent it flying out when the shaft rotates.
+.. warning:: Lorsque le moteur est utilisé sans charge fixée à l'axe,
+    enlevez la clavette pour l'empecher d'être projetée quand l'axe tourne.
 
-.. warning:: To prevent equipment damage, be certain that the input power has correctly sized
-    protective devices installed.
+.. warning:: Pour prévenir l'équipement de dommages éventuels, assurez vous que l'alimentation
+    utilisée est équipée d'appareil de protection correctement dimensionnés.
 
-.. warning:: To ensure reliable performance of this equipment be certain that all signals to/from the
-    motor are shielded correctly.
+.. warning:: Pour garantir des performances optimales, assurez vous que tous les câbles de signaux
+    sont correctement blindés.

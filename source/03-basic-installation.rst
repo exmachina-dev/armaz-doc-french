@@ -1,5 +1,5 @@
-Basic installation
-==================
+Installation basique
+====================
 
 Introduction
 ------------
@@ -22,9 +22,11 @@ Les composants requis pour réaliser l'installation basique sont:
 * Un arrêt d'urgence STOPT.
 * Un câble XLR 3 points
 * Une télécommande. Plusieurs alternatives sont disponibles:
-  - Une télécommande VARMO.
-  - Un ordinateur avec l'outil :doc:`Ertza GUI <ertza:tools>`.
-  - Un ordinateur avec une interface compatible OSC.
+
+  * Une télécommande VARMO.
+  * Un ordinateur avec l'outil :doc:`Ertza GUI <ertza:tools>`.
+  * Un ordinateur avec une interface compatible OSC.
+
 * Un câble de données pour relier le moteur à la télécommande, selon le type de télécommande
   (câble XLR 5 points ou câble Ethernet cat5).
 

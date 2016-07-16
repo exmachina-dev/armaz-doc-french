@@ -28,7 +28,7 @@ Les autres section font appel à des notions de programmation logique et à des 
 informatiques. Si vous n'êtes pas qualifié, vous devriez chercher une assistance avant de continuer.
 
 Numéro de série
---------------
+---------------
 
 Armaz est disponible dans différentes versions (appelées variantes).
 Le numéro de série est noté sur la face arrière de l'appareil.
@@ -39,7 +39,7 @@ Une explication du numéro de série est donnée ici en utilisant l'exemple *011
 Champ   Définition                                      Alternatives
 ======= =============================================== =====================
 0116    Semaine et année de fabrication (WWYY)          \-
-ARFB    Variant d'Armaz                                 ARMH, ARMF, ARFB, ARFL
+ARFB    Variante d'Armaz                                ARMH, ARMF, ARFB, ARFL
 0013    Numéro d'unité fabriquée pendant la semaine     \-
 ======= =============================================== =====================
 

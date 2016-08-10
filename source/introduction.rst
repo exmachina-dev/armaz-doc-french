@@ -22,7 +22,7 @@ Les fonctionnalités standard sont:
 Ce manuel est destiné à vous guider à travers l'installation du moteur Armaz.
 Les différentes sections doivent être lues dans l'ordre.
 
-:ref:`L'installation basique <03-basic-installation>` décrit l'installation mécanique de Armaz,
+:ref:`L'installation basique <basic-installation>` décrit l'installation mécanique de Armaz,
 son alimentation et ses entrées digitales.
 Les autres section font appel à des notions de programmation logique et à des compétences
 informatiques. Si vous n'êtes pas qualifié, vous devriez chercher une assistance avant de continuer.
